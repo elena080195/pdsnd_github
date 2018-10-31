@@ -11,4 +11,4 @@ This software will help users analyze data from a bikeshare program
 Files used for this project: chicago.csv, new_york_city.csv, washington.csv, project.py
 
 ### Credits
-Resources used: github.com, stackoverflow.com, pandas.pydata.org
+Credits: github.com, stackoverflow.com, pandas.pydata.org
