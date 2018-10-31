@@ -245,7 +245,7 @@ def display_data(df, current_line):
     if display == 'no' or display == 'n' or display == '-' :
         return
     else:
-        print("\nSomething went wrong. Let's try again.")
+        print("\nI'm sorry, but something went wrong. Let's try again.")
         return display_data(df, current_line)
 
 
@@ -355,7 +355,7 @@ def statistics():
         elif restart.lower() == 'no' or restart.lower() == 'n' or restart == '-' :
             return
         else:
-            print("\nSomething went wrong. Let's try again.")
+            print("\nI'm sorry, but something went wrong. Let's try again.")
             return restart_question()
 
     restart_question()
