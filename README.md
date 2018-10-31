@@ -2,7 +2,7 @@
 31 October 2018
 
 ### Project Title
-Bikeshare project
+Bikeshare Data Analysis
 
 ### Description
 This software will help users analyze data from a bikeshare program
