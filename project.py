@@ -346,7 +346,7 @@ def statistics():
     display_data(filtered_df, 0)
 
     def restart_question():
-        '''Asks the user if they want to restart the program. If the user chooses yes, restarts it.
+        '''Asks the user if they want to restart the program. If the user chooses yes, restarts the program.
         If no - ends the program.
         '''
         restart = input('\nWould you like to restart? Type \'+\' for YES or \'-\' for NO. If you choose  \'-\' the session will end\n')
